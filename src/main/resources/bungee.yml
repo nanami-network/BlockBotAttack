@@ -1,0 +1,4 @@
+name: BlockBotAttack
+version: @version@
+main: xyz.n7mn.dev.blockbotattack.BlockBotAttack
+description: BlockBotAttack
